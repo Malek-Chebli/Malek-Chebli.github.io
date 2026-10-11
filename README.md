@@ -94,12 +94,6 @@ A machine learning approach to classify live network traffic for a network servi
 [![Troubleshooting](https://img.shields.io/badge/Troubleshooting-2E8B57?style=flat-square)](https://en.wikipedia.org/wiki/Debugging)
 [![Network Security](https://img.shields.io/badge/Network_Security-1B5E3F?style=flat-square)](https://en.wikipedia.org/wiki/Computer_security)
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Malek-Chebli&show_icons=true&theme=merko" alt="Malek Chebli GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malek-Chebli&layout=compact&theme=merko" alt="Top languages" height="180" />
-</p>
 
 ## Education
 
@@ -108,14 +102,13 @@ A machine learning approach to classify live network traffic for a network servi
 
 ## Certifications
 
-- TOEIC (English), score: <!-- [TO FILL: add score] -->
-- Certificat Voltaire (French), score: <!-- [TO FILL: add score] -->
-- Huawei Cloud certification, exact name and year: <!-- [TO FILL: add certification name and year] -->
-- Currently preparing (optional): <!-- [TO FILL: add certification or exam, e.g. CKA, Terraform Associate] -->
+- TOEIC (English)
+- Certificat Voltaire (French)
+- Huawei Cloud certification
 
 ## Contact
 
-Feel free to connect for opportunities in SRE, DevOps, monitoring, and software engineering.
+Feel free to connect for opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Malek_Chebli-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/malek-chebli)
 [![Email](https://img.shields.io/badge/Email-malek.chebli.contact%40gmail.com-1B5E3F?style=flat-square&logo=gmail&logoColor=white)](mailto:malek.chebli.contact@gmail.com)
