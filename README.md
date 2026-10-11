@@ -10,10 +10,10 @@ Ariana, Tunisia
 
 ## About me
 
-Software Developer and SRE-focused Programmer Analyst with 4+ years of experience in banking and financial services. I have spent 2.5 years building and maintaining a core banking platform at Sopra Banking Software and am currently supporting banking and wealth management applications within an SRE team at FIS. I work on production incident response, server lifecycle, SSL/TLS, load balancers, and secure access configuration. I am particularly interested in reliability engineering, observability, automation, and cloud-native technologies.
+Software Developer and SRE-focused with 4+ years of experience in banking and financial services. I have spent 2.5 years building and maintaining a core banking platform at Sopra Banking Software and am currently supporting banking and wealth management applications within an SRE team at FIS. I work on production incident response, server lifecycle, SSL/TLS, load balancers, and secure access configuration. I am particularly interested in reliability engineering, observability, automation, and cloud-native technologies.
 
 - Location: Ariana, Tunisia
-- Languages: Arabic (native), French <!-- [TO FILL: add French level] -->, English <!-- [TO FILL: add English level] -->
+- Languages: Arabic (native), French Advanced, English Advanced
 
 ## Experience
 
